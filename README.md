@@ -2,8 +2,8 @@
 > Um bot Discord simples criado com Python.
 
 Este projeto é um bot Discord básico criado usando a biblioteca discord.py. Ele oferece recursos essenciais de um bot, como responder a comandos, reproduzir música e interagir com os membros do servidor.
+![readme_img](https://media.licdn.com/dms/image/D4D22AQG5mC_Idqi1Vw/feedshare-shrink_800/0/1682523040999?e=1693440000&v=beta&t=E3dv991ETYYdFHzJBL4yRfSmqPk-nFo3QoG09vjwWDE)
 
-![readme_img](https://media.licdn.com/dms/image/D4D22AQG5mC_Idqi1Vw/feedshare-shrink_800/0/1682523040999?e=1689206400&v=beta&t=JjEgQ6Ov9fh8v4ylHQb7X8uqsdjelBYYkGmmDbxxcRo)
 
 ## Funcionalidades
 
